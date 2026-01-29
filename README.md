@@ -1,5 +1,11 @@
 # ADVANCED-JAVASCRIPT-NODERED
 
+var Object: ObjectConstructor
+new (value?: any) => Object
+Provides functionality common to all JavaScript objects.
+
+
+
 This definition is the TypeScript declaration for the core JavaScript Object constructor. When you see this in documentation or an IDE tooltip, it is describing the "blueprint" of how the base Object behaves in the language.
 
 Here is the breakdown of each part:
