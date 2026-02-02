@@ -3,8 +3,6 @@
  * Purpose: This script updates existing records and appends new ones
  * in the "Capacidad" sheet of a target workbook.
  */
-
-// Load the library (ensure xlsx-populate is installed in your Node-RED env)
 const XlsxPopulate = require('xlsx-populate');
 
 // 1. Open the file asynchronously from the path provided in the message
